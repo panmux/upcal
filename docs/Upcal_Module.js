@@ -312,7 +312,7 @@ const upCAL = {
       // errorLocation = 9999.99999,
       latitude: errorLocation,
       longitude: errorLocation,
-      altitude: 947,
+      altitude: 0,
       locationNAME: "Name This PLace?",
       horizontalAccuracy: 0,
       verticalAccuracy: 0,
